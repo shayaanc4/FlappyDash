@@ -22,7 +22,7 @@ Features
 
  How to Run
 
-	1.	Compile the Verilog modules and schematics using Quartus Prime.
+	1.	Compile the Verilog modules and schematics using Quartus Prime (or another EDA of your choosing).
 	2.	Connect and configure the DE0-CV FPGA board pins using the .qsf file.
 	3.	Connect the VGA output to a monitor.
 	4.	Use the input switch to control the object and enjoy the game!
