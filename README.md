@@ -1,9 +1,5 @@
 # FlappyJoyride
-This project implements a Flappy Bird x Jetpack Joyride game on an FPGA platform using Verilog. The game is fully hardware-based and displayed via Video Graphics Array (VGA) to an external monitor. A player controls the movement of the object through a switch on the FPGA board. The game implements score keeping, difficulty levels, and reset functionality.
-
-Features
-
-• VGA Output: Generates a 640x480 resolution display.
+This project implements a Flappy Bird x Jetpack Joyride game on an FPGA platform using Verilog. The game is fully hardware-based and displayed via Video Graphics Array (VGA) to an external monitor at 640x480 resolution. A player controls the movement of the object through a switch on the FPGA board. The game implements score keeping, difficulty levels, and reset functionality.
 
 •	Game Logic:
 
